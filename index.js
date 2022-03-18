@@ -1,9 +1,9 @@
 // Arrays to keep track of each task's state
 
 
-const taskTitles = [];
-const taskComplete = [];
-const taskDescriptions = [];
+// const taskTitles = [];
+// const taskComplete = [];
+// const taskDescriptions = [];
 
 
 function newTask(title, description) {
